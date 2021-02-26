@@ -13,4 +13,6 @@ Uses icons from:
 * hour by fajar hasyim from the Noun Project
 * Calendar by iconsphere from the Noun Project
 * help by popcornarts from the Noun Project
-* help by Icons Producer from the Noun Project
+* Calendar by Thengakola from the Noun Project
+* schedule by Lyhn from the Noun Project
+* Cargo Bike by Martin LEBRETON from the Noun Project
